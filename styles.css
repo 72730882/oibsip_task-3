@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+
+}
+.body2{
+    margin-top: 80px;
+    margin-left: 20px;
+    height: 450px;
+    width: 700px;
+    background-color: beige;
+    border: 30px;
+    border-color: #ca9ef4;
+    line-height: 1.5;
+}
+h3{
+    padding-top: 10px;
+    padding-left: 100px;
+
+}
+.result{
+    display: inline-block;
+    padding-top: 10px;
+
+}
+.reset{
+    padding-left: 105px;
+    padding-top: 15px;
+}
+.convert{
+    padding-left: 100px;
+}
