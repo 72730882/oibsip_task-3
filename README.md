@@ -1,2 +1,2 @@
-# oibsip_task-3
+# TEMPRATURE CONVERTER
 Oasis Infobyte internship task-3
